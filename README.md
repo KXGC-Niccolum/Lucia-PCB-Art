@@ -8,7 +8,8 @@
 
 ## 本项目与原项目的关系
 
-本项目源自项目 [alsunmengy/DeepSeek-PCB-Art](https://github.com/alsunmengy/DeepSeek-PCB-Art) ，借鉴了其创作方式、部分参数与素材，属于原作品的衍生版本。原作品B站视频：https://www.bilibili.com/video/BV1vbet6dEA8/
+本项目源自项目 [alsunmengy/DeepSeek-PCB-Art](https://github.com/alsunmengy/DeepSeek-PCB-Art) ，借鉴了其创作方式、部分参数与素材，属于原作品的衍生版本。
+原作品B站视频：https://www.bilibili.com/video/BV1vbet6dEA8/
 
 改动部分：相较于原项目，改动了正反面图片、文字与标识、覆铜层与阻焊层设计。
 
